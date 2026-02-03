@@ -55,6 +55,7 @@ Before deployment, ensure your host environment is prepared:
 ```bash
 ● git clone https://github.com/DaiZhiyuan/arm-cca-forge.git
 ● cd arm-cca-forge
+● git lfs pull
 ```
 
 ### 2. Configure Environment
