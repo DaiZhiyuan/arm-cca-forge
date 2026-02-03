@@ -7,7 +7,7 @@ It is designed for developers and researchers to explore Realm Management Extens
 
 The software stack follows the **Arm CCA Reference Architecture** and includes:
 
-![[arm_cca_stack.png]]
+![](./arm_cca_stack.png)
 
 - **TF-A (Trusted Firmware-A):**
     - Serves as the **EL3 monitor**, performing context switching between security states.
