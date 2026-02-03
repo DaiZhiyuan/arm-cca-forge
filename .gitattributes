@@ -1,0 +1,2 @@
+guest-disk.img filter=lfs diff=lfs merge=lfs -text
+rootfs.ext2 filter=lfs diff=lfs merge=lfs -text
